@@ -1,0 +1,1 @@
+clang-15 -Xclang -no-opaque-pointers -O3 -fpass-plugin=./build/lib/libremote_tagging.so -fplugin=./build/lib/libremote_tagging.so -mllvm -rtype=struct.RT src_file.cpp -o obj_file

@@ -1,0 +1,6 @@
+/home/yutong/playground/llvm/build/CMakeFiles/intrinsics_gen.dir
+/home/yutong/playground/llvm/build/CMakeFiles/omp_gen.dir
+/home/yutong/playground/llvm/build/CMakeFiles/acc_gen.dir
+/home/yutong/playground/llvm/build/CMakeFiles/remote_tagging.dir
+/home/yutong/playground/llvm/build/CMakeFiles/edit_cache.dir
+/home/yutong/playground/llvm/build/CMakeFiles/rebuild_cache.dir
