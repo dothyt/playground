@@ -20,7 +20,7 @@ float gamma_pdf(int x, float alpha = 1.0, float beta = 16.0) {
 
 int main() {
     float lambda = 1.0, alpha = 1.0, beta = 16;
-    
+
     for (int i = 0; i < 1; ++i) {
         float sum = 0;
         for(int k = i; k < 28 + i; ++k) {
@@ -28,7 +28,6 @@ int main() {
         }
         std::cout << "Sum of P(X = k) for i = 0 to 10: " << sum << std::endl;
     }
-    
-    
+
     return 0;
 }

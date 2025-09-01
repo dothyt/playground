@@ -7,5 +7,5 @@ if __name__ == "__main__":
         complete = subprocess.run(["ping -c 2 " + ip], shell=True)
         if complete.returncode == 0:
             ips.append(ip)
-    
+
     print(ips)
