@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <cuda_runtime.h>
 
 #define REPEATS       (2)
 #define LAUNCHES      (1000000)
